@@ -3,7 +3,7 @@ Um protótipo de uma plataforma de cursos, feito em parceria com  a empresa EURO
 Instruções para inicializar o projeto:
 <h1> Executar o dowload da dependencias do projeto: </h1>
 Executar no terminal o comando: </br>
-  - cd ../Sprints-3\EuropharmaSprint-main\challenge-main\challenge-main </br>
+  - cd ../Sprints-3-main\EuropharmaSprint-main\challenge-main\challenge-main </br>
 Após acesar a pasta executar no terminal o seguinte comando: </br>
   - pip install -r requirements.txt
 </br>
